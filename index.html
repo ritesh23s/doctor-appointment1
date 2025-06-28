@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello! Doctor- Doctor Search Platform</title>
+    <!-- <link rel="stylesheet" href="style.css"> -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="fab.png" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1><span class="spanfirst">Hello!</span><span class="spansecond">Doctor</span></h1>
+        </div>
+
+        <h2 style="text-align: center; margin-bottom: 1.5rem;">Find trusted doctors near you.🩺</h2>
+        <div class="search-section">
+            <form class="search-form" id="searchForm">
+                <div class="form-group">
+                    <label>Specialty</label>
+                    <input type="text" id="searchInput" placeholder="Enter doctor name or specialty">
+                </div>
+                <div class="form-group">
+                    <label>Location</label>
+                    <input type="text" id="locationInput" placeholder="Enter city or state">
+                </div>
+                <div class="form-group">
+                    <label>Specialty</label>
+                    <select id="specialtySelect">
+                        <option value="All">All Specialties</option>
+                        <option value="Cardiologist">Cardiologist</option>
+                        <option value="Dermatologist">Dermatologist</option>
+                        <option value="Pediatrician">Pediatrician</option>
+                        <option value="Orthopedist">Orthopedist</option>
+                        <option value="Neurologist">Neurologist</option>
+                        <option value="Psychiatrist">Psychiatrist</option>
+                        <option value="General Physician">General Physician</option>
+                        <option value="ENT Specialist">ENT Specialist</option>
+                        <option value="Dentist">Dentist</option>
+                        <option value="Gynecologist">Gynecologist</option>
+                        <option value="Urologist">Urologist</option>
+                        <option value="Oncologist">Oncologist</option>
+                    </select>
+                </div>
+                <button type="submit" class="search-btn">
+                    🔍 Search
+                </button>
+            </form>
+
+            <div class="filters">
+                <div class="filter-chip active">Available Today</div>
+                <div class="filter-chip">Highly Rated</div>
+                <div class="filter-chip">Teleconsultation</div>
+                <div class="filter-chip">Emergency</div>
+            </div>
+        </div>
+
+        <div class="doctor-grid" id="doctorGrid">
+            <!-- Doctor cards will be populated here -->
+        </div>
+    </div>
+
+    <!-- Booking Modal -->
+    <div class="modal" id="bookingModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Book Appointment</h2>
+                <button class="close-btn" onclick="closeModal()">×</button>
+            </div>
+
+            <div class="doctor-header" id="modalDoctorInfo">
+                <!-- Doctor info will be populated here -->
+            </div>
+
+            <form class="appointment-form" id="appointmentForm">
+                <div class="form-group">
+                    <label>Patient Name</label>
+                    <input type="text" id="patientName" required>
+                </div>
+                <div class="form-group">
+                    <label>Phone Number</label>
+                    <input type="tel" id="patientPhone" required>
+                </div>
+                <div class="form-group">
+                    <label>Email</label>
+                    <input type="email" id="patientemail" required>
+                </div>
+                <div class="form-group">
+                    <label>Appointment Date</label>
+                    <input type="date" id="appointmentDate" required>
+                </div>
+                <div class="form-group">
+                    <label>Select Time Slot</label>
+                    <div class="time-slots" id="timeSlots">
+                        <div class="time-slot" onclick="selectTime(this)">9:00 AM</div>
+                        <div class="time-slot" onclick="selectTime(this)">10:00 AM</div>
+                        <div class="time-slot" onclick="selectTime(this)">11:00 AM</div>
+                        <div class="time-slot" onclick="selectTime(this)">2:00 PM</div>
+                        <div class="time-slot" onclick="selectTime(this)">3:00 PM</div>
+                        <div class="time-slot" onclick="selectTime(this)">4:00 PM</div>
+                    </div>
+                </div>
+                <button type="submit" class="book-btn">
+                    Confirm Booking
+                </button>
+            </form>
+
+            <div class="success-message" id="successMessage">
+                🎉 Your Booking is Successful! 🎉<br />
+                <strong>Appointment confirmed with ${selectedDoctor?.name || 'Doctor'}</strong><br />
+                You will receive a confirmation SMS and email shortly.<br />
+                <small>Please arrive 15 minutes early for your appointment.</small>
+            </div>
+        </div>
+    </div>
+
+    <!-- Javascript link -->
+    <script src="script.js"></script>
+</body>
+
+</html>

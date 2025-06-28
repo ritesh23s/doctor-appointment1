@@ -1,0 +1,1986 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Ananya Sharma",
+        "specialty": "Cardiologist",
+        "location": "Delhi",
+        "experience": 12,
+        "rating": 4.8,
+        "reviews": 156,
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "fees": 2000,
+        "availability": "Available Today",
+        "phone": "+91-9810012345",
+        "qualifications": "MD, DM (Cardiology)"
+    },
+    {
+        "id": 2,
+        "name": "Dr. Ravi Mehta",
+        "specialty": "Dermatologist",
+        "location": "Mumbai",
+        "experience": 8,
+        "rating": 4.9,
+        "reviews": 203,
+        "languages": [
+            "English",
+            "Marathi",
+            "Hindi"
+        ],
+        "fees": 1500,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9823012345",
+        "qualifications": "MD, DDVL"
+    },
+    {
+        "id": 3,
+        "name": "Dr. Neha Verma",
+        "specialty": "Pediatrician",
+        "location": "Bangalore",
+        "experience": 15,
+        "rating": 4.7,
+        "reviews": 189,
+        "languages": [
+            "English",
+            "Kannada",
+            "Hindi"
+        ],
+        "fees": 1200,
+        "availability": "Available Today",
+        "phone": "+91-9845012345",
+        "qualifications": "MD, DCH"
+    },
+    {
+        "id": 4,
+        "name": "Dr. Rajeev Reddy",
+        "specialty": "Orthopedist",
+        "location": "Hyderabad",
+        "experience": 20,
+        "rating": 4.6,
+        "reviews": 142,
+        "languages": [
+            "English",
+            "Telugu"
+        ],
+        "fees": 2500,
+        "availability": "Available Next Week",
+        "phone": "+91-9876012345",
+        "qualifications": "MS (Ortho)"
+    },
+    {
+        "id": 5,
+        "name": "Dr. Priya Iyer",
+        "specialty": "Neurologist",
+        "location": "Chennai",
+        "experience": 10,
+        "rating": 4.9,
+        "reviews": 167,
+        "languages": [
+            "English",
+            "Tamil"
+        ],
+        "fees": 3000,
+        "availability": "Available Today",
+        "phone": "+91-9894012345",
+        "qualifications": "DM (Neurology)"
+    },
+    {
+        "id": 6,
+        "name": "Dr. Sameer Khan",
+        "specialty": "Psychiatrist",
+        "location": "Kolkata",
+        "experience": 14,
+        "rating": 4.8,
+        "reviews": 234,
+        "languages": [
+            "English",
+            "Bengali",
+            "Hindi"
+        ],
+        "fees": 1800,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9831012345",
+        "qualifications": "MD (Psychiatry)"
+    },
+    {
+        "id": 7,
+        "name": "Dr. Ritu Singh",
+        "specialty": "General Physician",
+        "location": "Ahmedabad",
+        "experience": 9,
+        "rating": 4.5,
+        "reviews": 110,
+        "languages": [
+            "Hindi",
+            "Gujarati",
+            "English"
+        ],
+        "fees": 1000,
+        "availability": "Available Today",
+        "phone": "+91-9824012345",
+        "qualifications": "MBBS"
+    },
+    {
+        "id": 8,
+        "name": "Dr. Arvind Chauhan",
+        "specialty": "ENT Specialist",
+        "location": "Pune",
+        "experience": 11,
+        "rating": 4.7,
+        "reviews": 147,
+        "languages": [
+            "English",
+            "Hindi",
+            "Marathi"
+        ],
+        "fees": 1100,
+        "availability": "Available Today",
+        "phone": "+91-9860012345",
+        "qualifications": "MS (ENT)"
+    },
+    {
+        "id": 9,
+        "name": "Dr. Sheetal Desai",
+        "specialty": "Dentist",
+        "location": "Surat",
+        "experience": 7,
+        "rating": 4.9,
+        "reviews": 123,
+        "languages": [
+            "Gujarati",
+            "English",
+            "Hindi"
+        ],
+        "fees": 800,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9873012345",
+        "qualifications": "BDS, MDS"
+    },
+    {
+        "id": 10,
+        "name": "Dr. Alka Joshi",
+        "specialty": "Gynecologist",
+        "location": "Jaipur",
+        "experience": 18,
+        "rating": 4.8,
+        "reviews": 204,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 2000,
+        "availability": "Available Today",
+        "phone": "+91-9828012345",
+        "qualifications": "MBBS, MS (Obstetrics & Gynecology)"
+    },
+    {
+        "id": 11,
+        "name": "Dr. Manoj Saxena",
+        "specialty": "Urologist",
+        "location": "Lucknow",
+        "experience": 16,
+        "rating": 4.6,
+        "reviews": 144,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 2200,
+        "availability": "Available Today",
+        "phone": "+91-9839012345",
+        "qualifications": "MCh (Urology)"
+    },
+    {
+        "id": 12,
+        "name": "Dr. Vinay Malhotra",
+        "specialty": "Oncologist",
+        "location": "Chandigarh",
+        "experience": 13,
+        "rating": 4.7,
+        "reviews": 155,
+        "languages": [
+            "Punjabi",
+            "Hindi",
+            "English"
+        ],
+        "fees": 3200,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9878012345",
+        "qualifications": "DM (Medical Oncology)"
+    },
+    {
+        "id": 13,
+        "name": "Dr. Swati Deshmukh",
+        "specialty": "Cardiologist",
+        "location": "Nagpur",
+        "experience": 10,
+        "rating": 4.8,
+        "reviews": 164,
+        "languages": [
+            "Marathi",
+            "Hindi",
+            "English"
+        ],
+        "fees": 1900,
+        "availability": "Available Today",
+        "phone": "+91-9826012345",
+        "qualifications": "DM (Cardiology)"
+    },
+    {
+        "id": 14,
+        "name": "Dr. Mahesh Pillai",
+        "specialty": "Dermatologist",
+        "location": "Thiruvananthapuram",
+        "experience": 9,
+        "rating": 4.7,
+        "reviews": 126,
+        "languages": [
+            "Malayalam",
+            "English"
+        ],
+        "fees": 1400,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9847012345",
+        "qualifications": "MD (Dermatology)"
+    },
+    {
+        "id": 15,
+        "name": "Dr. Aarti Reddy",
+        "specialty": "Pediatrician",
+        "location": "Vijayawada",
+        "experience": 11,
+        "rating": 4.6,
+        "reviews": 134,
+        "languages": [
+            "Telugu",
+            "English",
+            "Hindi"
+        ],
+        "fees": 1100,
+        "availability": "Available Today",
+        "phone": "+91-9888012345",
+        "qualifications": "MD (Pediatrics)"
+    },
+    {
+        "id": 16,
+        "name": "Dr. Sneha Patil",
+        "specialty": "Orthopedist",
+        "location": "Nashik",
+        "experience": 13,
+        "rating": 4.7,
+        "reviews": 121,
+        "languages": [
+            "Marathi",
+            "Hindi",
+            "English"
+        ],
+        "fees": 1700,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9896012345",
+        "qualifications": "MS (Orthopedics)"
+    },
+    {
+        "id": 17,
+        "name": "Dr. Arjun Sethi",
+        "specialty": "Neurologist",
+        "location": "Indore",
+        "experience": 12,
+        "rating": 4.9,
+        "reviews": 198,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 3100,
+        "availability": "Available Today",
+        "phone": "+91-9827012345",
+        "qualifications": "DM (Neurology)"
+    },
+    {
+        "id": 18,
+        "name": "Dr. Meenakshi Rao",
+        "specialty": "Psychiatrist",
+        "location": "Bhopal",
+        "experience": 15,
+        "rating": 4.6,
+        "reviews": 175,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1600,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9815012345",
+        "qualifications": "MD (Psychiatry)"
+    },
+    {
+        "id": 19,
+        "name": "Dr. Karan Malviya",
+        "specialty": "General Physician",
+        "location": "Kanpur",
+        "experience": 9,
+        "rating": 4.5,
+        "reviews": 112,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 900,
+        "availability": "Available Today",
+        "phone": "+91-9823012399",
+        "qualifications": "MBBS"
+    },
+    {
+        "id": 20,
+        "name": "Dr. Lata Menon",
+        "specialty": "ENT Specialist",
+        "location": "Kochi",
+        "experience": 11,
+        "rating": 4.8,
+        "reviews": 138,
+        "languages": [
+            "Malayalam",
+            "English",
+            "Hindi"
+        ],
+        "fees": 1250,
+        "availability": "Available Today",
+        "phone": "+91-9877012345",
+        "qualifications": "MS (ENT)"
+    },
+    {
+        "id": 21,
+        "name": "Dr. Devika Sharma",
+        "specialty": "Dentist",
+        "location": "Varanasi",
+        "experience": 10,
+        "rating": 4.9,
+        "reviews": 116,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 950,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9813012345",
+        "qualifications": "BDS"
+    },
+    {
+        "id": 22,
+        "name": "Dr. Imran Qureshi",
+        "specialty": "Gynecologist",
+        "location": "Amritsar",
+        "experience": 18,
+        "rating": 4.8,
+        "reviews": 199,
+        "languages": [
+            "Punjabi",
+            "Hindi",
+            "English"
+        ],
+        "fees": 2100,
+        "availability": "Available Today",
+        "phone": "+91-9842012345",
+        "qualifications": "MS (Gynecology)"
+    },
+    {
+        "id": 23,
+        "name": "Dr. Preeti Bhatt",
+        "specialty": "Urologist",
+        "location": "Patna",
+        "experience": 14,
+        "rating": 4.7,
+        "reviews": 177,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 2300,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9874012345",
+        "qualifications": "MCh (Urology)"
+    },
+    {
+        "id": 24,
+        "name": "Dr. Abhinav Singh",
+        "specialty": "Oncologist",
+        "location": "Ranchi",
+        "experience": 15,
+        "rating": 4.9,
+        "reviews": 201,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 3300,
+        "availability": "Available Today",
+        "phone": "+91-9832012345",
+        "qualifications": "DM (Oncology)"
+    },
+    {
+        "id": 25,
+        "name": "Dr. Zoya Khan",
+        "specialty": "Cardiologist",
+        "location": "Guwahati",
+        "experience": 11,
+        "rating": 4.8,
+        "reviews": 144,
+        "languages": [
+            "Assamese",
+            "Hindi",
+            "English"
+        ],
+        "fees": 2100,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9854012345",
+        "qualifications": "DM (Cardiology)"
+    },
+    {
+        "id": 26,
+        "name": "Dr. Niharika Jain",
+        "specialty": "Dermatologist",
+        "location": "Dehradun",
+        "experience": 9,
+        "rating": 4.7,
+        "reviews": 129,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1300,
+        "availability": "Available Today",
+        "phone": "+91-9829012345",
+        "qualifications": "MD (Dermatology)"
+    },
+    {
+        "id": 27,
+        "name": "Dr. Arvind Prasad",
+        "specialty": "Pediatrician",
+        "location": "Agra",
+        "experience": 10,
+        "rating": 4.6,
+        "reviews": 136,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1150,
+        "availability": "Available Today",
+        "phone": "+91-9849012345",
+        "qualifications": "MD (Pediatrics)"
+    },
+    {
+        "id": 28,
+        "name": "Dr. Pooja Yadav",
+        "specialty": "Orthopedist",
+        "location": "Meerut",
+        "experience": 12,
+        "rating": 4.8,
+        "reviews": 149,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1650,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9868012345",
+        "qualifications": "MS (Orthopedics)"
+    },
+    {
+        "id": 29,
+        "name": "Dr. Tarun Kapoor",
+        "specialty": "Neurologist",
+        "location": "Ludhiana",
+        "experience": 13,
+        "rating": 4.7,
+        "reviews": 158,
+        "languages": [
+            "Punjabi",
+            "Hindi",
+            "English"
+        ],
+        "fees": 2950,
+        "availability": "Available Today",
+        "phone": "+91-9873012399",
+        "qualifications": "DM (Neurology)"
+    },
+    {
+        "id": 30,
+        "name": "Dr. Bhavana Nair",
+        "specialty": "Psychiatrist",
+        "location": "Rajkot",
+        "experience": 12,
+        "rating": 4.9,
+        "reviews": 183,
+        "languages": [
+            "Gujarati",
+            "Hindi",
+            "English"
+        ],
+        "fees": 1750,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9816012345",
+        "qualifications": "MD (Psychiatry)"
+    },
+    {
+        "id": 31,
+        "name": "Dr. Ritu Deshmukh",
+        "specialty": "General Physician",
+        "location": "Aurangabad",
+        "experience": 11,
+        "rating": 4.6,
+        "reviews": 115,
+        "languages": [
+            "Marathi",
+            "Hindi",
+            "English"
+        ],
+        "fees": 1000,
+        "availability": "Available Today",
+        "phone": "+91-9829112345",
+        "qualifications": "MBBS"
+    },
+    {
+        "id": 32,
+        "name": "Dr. Aman Saxena",
+        "specialty": "ENT Specialist",
+        "location": "Gwalior",
+        "experience": 10,
+        "rating": 4.8,
+        "reviews": 139,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1400,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9817012345",
+        "qualifications": "MS (ENT)"
+    },
+    {
+        "id": 33,
+        "name": "Dr. Vandana Pandey",
+        "specialty": "Dentist",
+        "location": "Jabalpur",
+        "experience": 9,
+        "rating": 4.9,
+        "reviews": 128,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 950,
+        "availability": "Available Today",
+        "phone": "+91-9828012345",
+        "qualifications": "BDS"
+    },
+    {
+        "id": 34,
+        "name": "Dr. Parvez Alam",
+        "specialty": "Gynecologist",
+        "location": "Jamshedpur",
+        "experience": 16,
+        "rating": 4.7,
+        "reviews": 156,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 2000,
+        "availability": "Available Next Week",
+        "phone": "+91-9812012345",
+        "qualifications": "MS (Gynecology)"
+    },
+    {
+        "id": 35,
+        "name": "Dr. Kavita Shetty",
+        "specialty": "Urologist",
+        "location": "Mangalore",
+        "experience": 12,
+        "rating": 4.6,
+        "reviews": 140,
+        "languages": [
+            "Kannada",
+            "English",
+            "Hindi"
+        ],
+        "fees": 2400,
+        "availability": "Available Today",
+        "phone": "+91-9841012345",
+        "qualifications": "MCh (Urology)"
+    },
+    {
+        "id": 36,
+        "name": "Dr. Raj Malhotra",
+        "specialty": "Oncologist",
+        "location": "Udaipur",
+        "experience": 15,
+        "rating": 4.9,
+        "reviews": 188,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 3200,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9833012345",
+        "qualifications": "DM (Oncology)"
+    },
+    {
+        "id": 37,
+        "name": "Dr. Shalini Dutta",
+        "specialty": "Cardiologist",
+        "location": "Gaya",
+        "experience": 10,
+        "rating": 4.8,
+        "reviews": 154,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 2200,
+        "availability": "Available Today",
+        "phone": "+91-9878012345",
+        "qualifications": "MD, DM (Cardiology)"
+    },
+    {
+        "id": 38,
+        "name": "Dr. Nitesh Paul",
+        "specialty": "Dermatologist",
+        "location": "Siliguri",
+        "experience": 9,
+        "rating": 4.7,
+        "reviews": 132,
+        "languages": [
+            "Bengali",
+            "Hindi",
+            "English"
+        ],
+        "fees": 1250,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9843012345",
+        "qualifications": "MD (Dermatology)"
+    },
+    {
+        "id": 39,
+        "name": "Dr. Priya Mukherjee",
+        "specialty": "Pediatrician",
+        "location": "Durgapur",
+        "experience": 14,
+        "rating": 4.8,
+        "reviews": 161,
+        "languages": [
+            "Bengali",
+            "Hindi",
+            "English"
+        ],
+        "fees": 1100,
+        "availability": "Available Today",
+        "phone": "+91-9826012345",
+        "qualifications": "MD (Pediatrics)"
+    },
+    {
+        "id": 40,
+        "name": "Dr. Manoj Joshi",
+        "specialty": "Orthopedist",
+        "location": "Bilaspur",
+        "experience": 13,
+        "rating": 4.7,
+        "reviews": 141,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1600,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9819012345",
+        "qualifications": "MS (Orthopedics)"
+    },
+    {
+        "id": 41,
+        "name": "Dr. Anjali Thakur",
+        "specialty": "Neurologist",
+        "location": "Ajmer",
+        "experience": 11,
+        "rating": 4.8,
+        "reviews": 152,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 2800,
+        "availability": "Available Today",
+        "phone": "+91-9836012345",
+        "qualifications": "DM (Neurology)"
+    },
+    {
+        "id": 42,
+        "name": "Dr. Faizan Rizvi",
+        "specialty": "Psychiatrist",
+        "location": "Aligarh",
+        "experience": 14,
+        "rating": 4.6,
+        "reviews": 147,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1700,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9824012345",
+        "qualifications": "MD (Psychiatry)"
+    },
+    {
+        "id": 43,
+        "name": "Dr. Ritika Dey",
+        "specialty": "General Physician",
+        "location": "Shillong",
+        "experience": 9,
+        "rating": 4.7,
+        "reviews": 133,
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "fees": 1050,
+        "availability": "Available Today",
+        "phone": "+91-9856012345",
+        "qualifications": "MBBS"
+    },
+    {
+        "id": 44,
+        "name": "Dr. Mahesh Kumar",
+        "specialty": "ENT Specialist",
+        "location": "Hubli",
+        "experience": 12,
+        "rating": 4.8,
+        "reviews": 143,
+        "languages": [
+            "Kannada",
+            "Hindi",
+            "English"
+        ],
+        "fees": 1350,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9818012345",
+        "qualifications": "MS (ENT)"
+    },
+    {
+        "id": 45,
+        "name": "Dr. Farah Siddiqui",
+        "specialty": "Dentist",
+        "location": "Bareilly",
+        "experience": 10,
+        "rating": 4.9,
+        "reviews": 126,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1000,
+        "availability": "Available Today",
+        "phone": "+91-9871012345",
+        "qualifications": "BDS"
+    },
+    {
+        "id": 46,
+        "name": "Dr. Vikram Sinha",
+        "specialty": "Gynecologist",
+        "location": "Haridwar",
+        "experience": 14,
+        "rating": 4.7,
+        "reviews": 149,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 2100,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9891012345",
+        "qualifications": "MS (Gynecology)"
+    },
+    {
+        "id": 47,
+        "name": "Dr. Nandita Shekhar",
+        "specialty": "Urologist",
+        "location": "Amravati",
+        "experience": 13,
+        "rating": 4.6,
+        "reviews": 144,
+        "languages": [
+            "Marathi",
+            "English",
+            "Hindi"
+        ],
+        "fees": 2300,
+        "availability": "Available Today",
+        "phone": "+91-9823012378",
+        "qualifications": "MCh (Urology)"
+    },
+    {
+        "id": 48,
+        "name": "Dr. Pradeep Nair",
+        "specialty": "Oncologist",
+        "location": "Warangal",
+        "experience": 15,
+        "rating": 4.9,
+        "reviews": 172,
+        "languages": [
+            "Telugu",
+            "English",
+            "Hindi"
+        ],
+        "fees": 3100,
+        "availability": "Available Next Week",
+        "phone": "+91-9882012345",
+        "qualifications": "DM (Oncology)"
+    },
+    {
+        "id": 49,
+        "name": "Dr. Aparna Kapoor",
+        "specialty": "Cardiologist",
+        "location": "Nellore",
+        "experience": 12,
+        "rating": 4.8,
+        "reviews": 158,
+        "languages": [
+            "Telugu",
+            "Hindi",
+            "English"
+        ],
+        "fees": 2100,
+        "availability": "Available Today",
+        "phone": "+91-9879012345",
+        "qualifications": "MD, DM (Cardiology)"
+    },
+    {
+        "id": 50,
+        "name": "Dr. Anil Srivastava",
+        "specialty": "Dermatologist",
+        "location": "Jhansi",
+        "experience": 10,
+        "rating": 4.7,
+        "reviews": 139,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1300,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9811012345",
+        "qualifications": "MD (Dermatology)"
+    },
+    {
+        "id": 51,
+        "name": "Dr. Swati Mohan",
+        "specialty": "Pediatrician",
+        "location": "Guntur",
+        "experience": 13,
+        "rating": 4.9,
+        "reviews": 150,
+        "languages": [
+            "Telugu",
+            "English"
+        ],
+        "fees": 1200,
+        "availability": "Available Today",
+        "phone": "+91-9846012345",
+        "qualifications": "MD (Pediatrics)"
+    },
+    {
+        "id": 52,
+        "name": "Dr. Suresh Nambiar",
+        "specialty": "Orthopedist",
+        "location": "Thrissur",
+        "experience": 15,
+        "rating": 4.8,
+        "reviews": 164,
+        "languages": [
+            "Malayalam",
+            "English"
+        ],
+        "fees": 1900,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9802012345",
+        "qualifications": "MS (Ortho)"
+    },
+    {
+        "id": 53,
+        "name": "Dr. Pooja Mehra",
+        "specialty": "Neurologist",
+        "location": "Mathura",
+        "experience": 14,
+        "rating": 4.7,
+        "reviews": 155,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 2700,
+        "availability": "Available Today",
+        "phone": "+91-9873012345",
+        "qualifications": "DM (Neurology)"
+    },
+    {
+        "id": 54,
+        "name": "Dr. Imran Qureshi",
+        "specialty": "Psychiatrist",
+        "location": "Moradabad",
+        "experience": 11,
+        "rating": 4.6,
+        "reviews": 143,
+        "languages": [
+            "Hindi",
+            "Urdu",
+            "English"
+        ],
+        "fees": 1600,
+        "availability": "Available Next Week",
+        "phone": "+91-9867012345",
+        "qualifications": "MD (Psychiatry)"
+    },
+    {
+        "id": 55,
+        "name": "Dr. Latha Krishnan",
+        "specialty": "General Physician",
+        "location": "Kollam",
+        "experience": 9,
+        "rating": 4.8,
+        "reviews": 148,
+        "languages": [
+            "Malayalam",
+            "English"
+        ],
+        "fees": 950,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9805012345",
+        "qualifications": "MBBS"
+    },
+    {
+        "id": 56,
+        "name": "Dr. Mohit Kapoor",
+        "specialty": "ENT Specialist",
+        "location": "Ujjain",
+        "experience": 13,
+        "rating": 4.7,
+        "reviews": 140,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1450,
+        "availability": "Available Today",
+        "phone": "+91-9897012345",
+        "qualifications": "MS (ENT)"
+    },
+    {
+        "id": 57,
+        "name": "Dr. Natasha Reddy",
+        "specialty": "Dentist",
+        "location": "Tirupati",
+        "experience": 10,
+        "rating": 4.9,
+        "reviews": 129,
+        "languages": [
+            "Telugu",
+            "English"
+        ],
+        "fees": 1100,
+        "availability": "Available Today",
+        "phone": "+91-9876012345",
+        "qualifications": "BDS"
+    },
+    {
+        "id": 58,
+        "name": "Dr. Bharat Singh",
+        "specialty": "Gynecologist",
+        "location": "Nanded",
+        "experience": 16,
+        "rating": 4.7,
+        "reviews": 162,
+        "languages": [
+            "Hindi",
+            "Marathi"
+        ],
+        "fees": 2000,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9863012345",
+        "qualifications": "MS (Gynecology)"
+    },
+    {
+        "id": 59,
+        "name": "Dr. Shruti Patil",
+        "specialty": "Urologist",
+        "location": "Rewa",
+        "experience": 12,
+        "rating": 4.6,
+        "reviews": 142,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 2200,
+        "availability": "Available Today",
+        "phone": "+91-9829012345",
+        "qualifications": "MCh (Urology)"
+    },
+    {
+        "id": 60,
+        "name": "Dr. Sanjay Bansal",
+        "specialty": "Oncologist",
+        "location": "Korba",
+        "experience": 15,
+        "rating": 4.8,
+        "reviews": 169,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 3000,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9818012399",
+        "qualifications": "DM (Oncology)"
+    },
+    {
+        "id": 61,
+        "name": "Dr. Priyanka Joshi",
+        "specialty": "Cardiologist",
+        "location": "Ajmer",
+        "experience": 11,
+        "rating": 4.7,
+        "reviews": 138,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 2200,
+        "availability": "Available Today",
+        "phone": "+91-9823012355",
+        "qualifications": "MD, DM (Cardiology)"
+    },
+    {
+        "id": 62,
+        "name": "Dr. Farhan Siddiqui",
+        "specialty": "Dermatologist",
+        "location": "Muzaffarpur",
+        "experience": 9,
+        "rating": 4.8,
+        "reviews": 127,
+        "languages": [
+            "Hindi",
+            "Urdu",
+            "English"
+        ],
+        "fees": 1350,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9835012399",
+        "qualifications": "MD (Dermatology)"
+    },
+    {
+        "id": 63,
+        "name": "Dr. Anjali Das",
+        "specialty": "Pediatrician",
+        "location": "Silchar",
+        "experience": 14,
+        "rating": 4.9,
+        "reviews": 141,
+        "languages": [
+            "Assamese",
+            "Hindi",
+            "English"
+        ],
+        "fees": 1250,
+        "availability": "Available Today",
+        "phone": "+91-9850012345",
+        "qualifications": "MD (Pediatrics)"
+    },
+    {
+        "id": 64,
+        "name": "Dr. Ramesh Kulkarni",
+        "specialty": "Orthopedist",
+        "location": "Solapur",
+        "experience": 13,
+        "rating": 4.7,
+        "reviews": 133,
+        "languages": [
+            "Marathi",
+            "Hindi",
+            "English"
+        ],
+        "fees": 1800,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9873012355",
+        "qualifications": "MS (Ortho)"
+    },
+    {
+        "id": 65,
+        "name": "Dr. Kavitha Menon",
+        "specialty": "Neurologist",
+        "location": "Kozhikode",
+        "experience": 12,
+        "rating": 4.8,
+        "reviews": 145,
+        "languages": [
+            "Malayalam",
+            "English"
+        ],
+        "fees": 2600,
+        "availability": "Available Today",
+        "phone": "+91-9891012375",
+        "qualifications": "DM (Neurology)"
+    },
+    {
+        "id": 66,
+        "name": "Dr. Nishant Thakur",
+        "specialty": "Psychiatrist",
+        "location": "Shimla",
+        "experience": 10,
+        "rating": 4.6,
+        "reviews": 130,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1700,
+        "availability": "Available Next Week",
+        "phone": "+91-9823012388",
+        "qualifications": "MD (Psychiatry)"
+    },
+    {
+        "id": 67,
+        "name": "Dr. Rekha Nair",
+        "specialty": "General Physician",
+        "location": "Rourkela",
+        "experience": 9,
+        "rating": 4.8,
+        "reviews": 118,
+        "languages": [
+            "Odia",
+            "Hindi",
+            "English"
+        ],
+        "fees": 900,
+        "availability": "Available Today",
+        "phone": "+91-9867012366",
+        "qualifications": "MBBS"
+    },
+    {
+        "id": 68,
+        "name": "Dr. Nitin Rawat",
+        "specialty": "ENT Specialist",
+        "location": "Dehradun",
+        "experience": 14,
+        "rating": 4.7,
+        "reviews": 143,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1400,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9843012390",
+        "qualifications": "MS (ENT)"
+    },
+    {
+        "id": 69,
+        "name": "Dr. Swarnima Roy",
+        "specialty": "Dentist",
+        "location": "Bilaspur",
+        "experience": 11,
+        "rating": 4.9,
+        "reviews": 132,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1000,
+        "availability": "Available Today",
+        "phone": "+91-9839012399",
+        "qualifications": "BDS, MDS"
+    },
+    {
+        "id": 70,
+        "name": "Dr. Satish Dubey",
+        "specialty": "Gynecologist",
+        "location": "Bareilly",
+        "experience": 15,
+        "rating": 4.8,
+        "reviews": 140,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 2000,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9828012369",
+        "qualifications": "MS (Gynecology)"
+    },
+    {
+        "id": 71,
+        "name": "Dr. Vandana Joshi",
+        "specialty": "Urologist",
+        "location": "Durg",
+        "experience": 13,
+        "rating": 4.6,
+        "reviews": 137,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 2150,
+        "availability": "Available Today",
+        "phone": "+91-9811012355",
+        "qualifications": "MCh (Urology)"
+    },
+    {
+        "id": 72,
+        "name": "Dr. Mehul Gandhi",
+        "specialty": "Oncologist",
+        "location": "Nizamabad",
+        "experience": 16,
+        "rating": 4.9,
+        "reviews": 152,
+        "languages": [
+            "Telugu",
+            "Hindi",
+            "English"
+        ],
+        "fees": 2950,
+        "availability": "Available Next Week",
+        "phone": "+91-9898012355",
+        "qualifications": "DM (Oncology)"
+    },
+    {
+        "id": 73,
+        "name": "Dr. Pratima Sen",
+        "specialty": "Cardiologist",
+        "location": "Bhilai",
+        "experience": 14,
+        "rating": 4.8,
+        "reviews": 141,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 2250,
+        "availability": "Available Today",
+        "phone": "+91-9878012311",
+        "qualifications": "MD, DM (Cardiology)"
+    },
+    {
+        "id": 74,
+        "name": "Dr. Sudhir Chauhan",
+        "specialty": "Dermatologist",
+        "location": "Panchkula",
+        "experience": 12,
+        "rating": 4.7,
+        "reviews": 129,
+        "languages": [
+            "Hindi",
+            "Punjabi",
+            "English"
+        ],
+        "fees": 1400,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9826012355",
+        "qualifications": "MD (Dermatology)"
+    },
+    {
+        "id": 75,
+        "name": "Dr. Aarti Mahajan",
+        "specialty": "Pediatrician",
+        "location": "Gandhinagar",
+        "experience": 13,
+        "rating": 4.9,
+        "reviews": 136,
+        "languages": [
+            "Gujarati",
+            "Hindi",
+            "English"
+        ],
+        "fees": 1150,
+        "availability": "Available Today",
+        "phone": "+91-9817012344",
+        "qualifications": "MD (Pediatrics)"
+    },
+    {
+        "id": 76,
+        "name": "Dr. Anurag Bansal",
+        "specialty": "Orthopedist",
+        "location": "Panipat",
+        "experience": 12,
+        "rating": 4.7,
+        "reviews": 122,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1600,
+        "availability": "Available Today",
+        "phone": "+91-9823112345",
+        "qualifications": "MS (Ortho)"
+    },
+    {
+        "id": 77,
+        "name": "Dr. Megha Kapoor",
+        "specialty": "Neurologist",
+        "location": "Gaya",
+        "experience": 10,
+        "rating": 4.8,
+        "reviews": 134,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 2800,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9876112345",
+        "qualifications": "DM (Neurology)"
+    },
+    {
+        "id": 78,
+        "name": "Dr. Abid Hussain",
+        "specialty": "Psychiatrist",
+        "location": "Moradabad",
+        "experience": 11,
+        "rating": 4.6,
+        "reviews": 128,
+        "languages": [
+            "Hindi",
+            "Urdu",
+            "English"
+        ],
+        "fees": 1650,
+        "availability": "Available Today",
+        "phone": "+91-9816012345",
+        "qualifications": "MD (Psychiatry)"
+    },
+    {
+        "id": 79,
+        "name": "Dr. Sanjana Tripathi",
+        "specialty": "General Physician",
+        "location": "Saharanpur",
+        "experience": 9,
+        "rating": 4.7,
+        "reviews": 110,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 850,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9877012345",
+        "qualifications": "MBBS"
+    },
+    {
+        "id": 80,
+        "name": "Dr. Abhay Patel",
+        "specialty": "ENT Specialist",
+        "location": "Haldwani",
+        "experience": 13,
+        "rating": 4.9,
+        "reviews": 142,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1450,
+        "availability": "Available Today",
+        "phone": "+91-9818012345",
+        "qualifications": "MS (ENT)"
+    },
+    {
+        "id": 81,
+        "name": "Dr. Monica Jain",
+        "specialty": "Dentist",
+        "location": "Rewa",
+        "experience": 10,
+        "rating": 4.8,
+        "reviews": 126,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 950,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9848012345",
+        "qualifications": "BDS, MDS"
+    },
+    {
+        "id": 82,
+        "name": "Dr. Vinod Rathi",
+        "specialty": "Gynecologist",
+        "location": "Khandwa",
+        "experience": 15,
+        "rating": 4.9,
+        "reviews": 139,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 2100,
+        "availability": "Available Today",
+        "phone": "+91-9888012345",
+        "qualifications": "MS (Gynecology)"
+    },
+    {
+        "id": 83,
+        "name": "Dr. Sweta Sinha",
+        "specialty": "Urologist",
+        "location": "Darbhanga",
+        "experience": 13,
+        "rating": 4.6,
+        "reviews": 135,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 2200,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9819012345",
+        "qualifications": "MCh (Urology)"
+    },
+    {
+        "id": 84,
+        "name": "Dr. Nilesh Pawar",
+        "specialty": "Oncologist",
+        "location": "Akola",
+        "experience": 16,
+        "rating": 4.8,
+        "reviews": 147,
+        "languages": [
+            "Marathi",
+            "Hindi",
+            "English"
+        ],
+        "fees": 3000,
+        "availability": "Available Today",
+        "phone": "+91-9869012345",
+        "qualifications": "DM (Oncology)"
+    },
+    {
+        "id": 85,
+        "name": "Dr. Rina Das",
+        "specialty": "Cardiologist",
+        "location": "Dibrugarh",
+        "experience": 14,
+        "rating": 4.7,
+        "reviews": 133,
+        "languages": [
+            "Assamese",
+            "Hindi",
+            "English"
+        ],
+        "fees": 2400,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9810112345",
+        "qualifications": "MD, DM (Cardiology)"
+    },
+    {
+        "id": 86,
+        "name": "Dr. Danish Ali",
+        "specialty": "Dermatologist",
+        "location": "Muzaffarnagar",
+        "experience": 12,
+        "rating": 4.9,
+        "reviews": 124,
+        "languages": [
+            "Hindi",
+            "English",
+            "Urdu"
+        ],
+        "fees": 1300,
+        "availability": "Available Today",
+        "phone": "+91-9830112345",
+        "qualifications": "MD (Dermatology)"
+    },
+    {
+        "id": 87,
+        "name": "Dr. Sneha Kulkarni",
+        "specialty": "Pediatrician",
+        "location": "Nanded",
+        "experience": 11,
+        "rating": 4.8,
+        "reviews": 131,
+        "languages": [
+            "Marathi",
+            "Hindi",
+            "English"
+        ],
+        "fees": 1150,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9840112345",
+        "qualifications": "MD (Pediatrics)"
+    },
+    {
+        "id": 88,
+        "name": "Dr. Avinash Reddy",
+        "specialty": "Orthopedist",
+        "location": "Karimnagar",
+        "experience": 12,
+        "rating": 4.6,
+        "reviews": 119,
+        "languages": [
+            "Telugu",
+            "Hindi",
+            "English"
+        ],
+        "fees": 1700,
+        "availability": "Available Today",
+        "phone": "+91-9870112345",
+        "qualifications": "MS (Ortho)"
+    },
+    {
+        "id": 89,
+        "name": "Dr. Neelam Sharma",
+        "specialty": "Neurologist",
+        "location": "Ujjain",
+        "experience": 14,
+        "rating": 4.9,
+        "reviews": 137,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 2700,
+        "availability": "Available Next Week",
+        "phone": "+91-9811112345",
+        "qualifications": "DM (Neurology)"
+    },
+    {
+        "id": 90,
+        "name": "Dr. Vikram Chatterjee",
+        "specialty": "Psychiatrist",
+        "location": "Asansol",
+        "experience": 13,
+        "rating": 4.7,
+        "reviews": 129,
+        "languages": [
+            "Bengali",
+            "Hindi",
+            "English"
+        ],
+        "fees": 1750,
+        "availability": "Available Today",
+        "phone": "+91-9822112345",
+        "qualifications": "MD (Psychiatry)"
+    },
+    {
+        "id": 91,
+        "name": "Dr. Nidhi Rao",
+        "specialty": "General Physician",
+        "location": "Bhilwara",
+        "experience": 9,
+        "rating": 4.6,
+        "reviews": 108,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 800,
+        "availability": "Available Today",
+        "phone": "+91-9893012345",
+        "qualifications": "MBBS"
+    },
+    {
+        "id": 92,
+        "name": "Dr. Harsh Vardhan",
+        "specialty": "ENT Specialist",
+        "location": "Anantapur",
+        "experience": 14,
+        "rating": 4.8,
+        "reviews": 138,
+        "languages": [
+            "Telugu",
+            "Hindi",
+            "English"
+        ],
+        "fees": 1400,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9823012345",
+        "qualifications": "MS (ENT)"
+    },
+    {
+        "id": 93,
+        "name": "Dr. Poonam Khare",
+        "specialty": "Dentist",
+        "location": "Bilaspur",
+        "experience": 10,
+        "rating": 4.7,
+        "reviews": 119,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 950,
+        "availability": "Available Today",
+        "phone": "+91-9849012345",
+        "qualifications": "BDS, MDS"
+    },
+    {
+        "id": 94,
+        "name": "Dr. Akshay Naik",
+        "specialty": "Gynecologist",
+        "location": "Nellore",
+        "experience": 13,
+        "rating": 4.9,
+        "reviews": 144,
+        "languages": [
+            "Telugu",
+            "Hindi",
+            "English"
+        ],
+        "fees": 2000,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9876012345",
+        "qualifications": "MS (Gynecology)"
+    },
+    {
+        "id": 95,
+        "name": "Dr. Jaya Bhardwaj",
+        "specialty": "Urologist",
+        "location": "Bhiwani",
+        "experience": 12,
+        "rating": 4.7,
+        "reviews": 123,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 2100,
+        "availability": "Available Today",
+        "phone": "+91-9812012345",
+        "qualifications": "MCh (Urology)"
+    },
+    {
+        "id": 96,
+        "name": "Dr. Devansh Tripathi",
+        "specialty": "Oncologist",
+        "location": "Jhansi",
+        "experience": 15,
+        "rating": 4.8,
+        "reviews": 135,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 2900,
+        "availability": "Available Next Week",
+        "phone": "+91-9833012345",
+        "qualifications": "DM (Oncology)"
+    },
+    {
+        "id": 97,
+        "name": "Dr. Amrita Basu",
+        "specialty": "Cardiologist",
+        "location": "Siliguri",
+        "experience": 11,
+        "rating": 4.6,
+        "reviews": 127,
+        "languages": [
+            "Bengali",
+            "Hindi",
+            "English"
+        ],
+        "fees": 2400,
+        "availability": "Available Today",
+        "phone": "+91-9840012345",
+        "qualifications": "MD, DM (Cardiology)"
+    },
+    {
+        "id": 98,
+        "name": "Dr. Krunal Patel",
+        "specialty": "Dermatologist",
+        "location": "Gandhidham",
+        "experience": 9,
+        "rating": 4.7,
+        "reviews": 114,
+        "languages": [
+            "Gujarati",
+            "Hindi",
+            "English"
+        ],
+        "fees": 1350,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9881012345",
+        "qualifications": "MD (Dermatology)"
+    },
+    {
+        "id": 99,
+        "name": "Dr. Rachna Desai",
+        "specialty": "Pediatrician",
+        "location": "Bhavnagar",
+        "experience": 10,
+        "rating": 4.9,
+        "reviews": 143,
+        "languages": [
+            "Gujarati",
+            "Hindi",
+            "English"
+        ],
+        "fees": 1100,
+        "availability": "Available Today",
+        "phone": "+91-9878012345",
+        "qualifications": "MD (Pediatrics)"
+    },
+    {
+        "id": 100,
+        "name": "Dr. Saurabh Mishra",
+        "specialty": "Orthopedist",
+        "location": "Mathura",
+        "experience": 12,
+        "rating": 4.8,
+        "reviews": 130,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1700,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9817012345",
+        "qualifications": "MS (Ortho)"
+    },
+    {
+        "id": 101,
+        "name": "Dr. Vani Gopal",
+        "specialty": "Neurologist",
+        "location": "Nizamabad",
+        "experience": 13,
+        "rating": 4.7,
+        "reviews": 128,
+        "languages": [
+            "Telugu",
+            "Hindi",
+            "English"
+        ],
+        "fees": 2600,
+        "availability": "Available Today",
+        "phone": "+91-9846012345",
+        "qualifications": "DM (Neurology)"
+    },
+    {
+        "id": 102,
+        "name": "Dr. Aniket Bhonsle",
+        "specialty": "Psychiatrist",
+        "location": "Kolhapur",
+        "experience": 14,
+        "rating": 4.9,
+        "reviews": 138,
+        "languages": [
+            "Marathi",
+            "Hindi",
+            "English"
+        ],
+        "fees": 1850,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9867012345",
+        "qualifications": "MD (Psychiatry)"
+    },
+    {
+        "id": 103,
+        "name": "Dr. Shalini Pandey",
+        "specialty": "General Physician",
+        "location": "Ajmer",
+        "experience": 11,
+        "rating": 4.6,
+        "reviews": 116,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 900,
+        "availability": "Available Today",
+        "phone": "+91-9850012345",
+        "qualifications": "MBBS"
+    },
+    {
+        "id": 104,
+        "name": "Dr. Sandeep Varma",
+        "specialty": "ENT Specialist",
+        "location": "Raichur",
+        "experience": 10,
+        "rating": 4.7,
+        "reviews": 112,
+        "languages": [
+            "Kannada",
+            "Hindi",
+            "English"
+        ],
+        "fees": 1300,
+        "availability": "Available Tomorrow",
+        "phone": "+91-9880012345",
+        "qualifications": "MS (ENT)"
+    },
+    {
+        "id": 105,
+        "name": "Dr. Kavita Lamba",
+        "specialty": "Dentist",
+        "location": "Shivpuri",
+        "experience": 9,
+        "rating": 4.8,
+        "reviews": 120,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1000,
+        "availability": "Available Today",
+        "phone": "+91-9899012345",
+        "qualifications": "BDS, MDS"
+    },
+    {
+        "id": 105,
+        "name": "Dr. Baiju Kumar Ray",
+        "specialty": "Dentist",
+        "location": "Madhubani",
+        "experience": 9,
+        "rating": 4.8,
+        "reviews": 120,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 500,
+        "availability": "Available Today",
+        "phone": "+91-9899012345",
+        "qualifications": "BDS, MDS"
+    },
+    {
+        "id": 105,
+        "name": "Dr. Kavita Lamba",
+        "specialty": "Dentist",
+        "location": "Shivpuri",
+        "experience": 9,
+        "rating": 4.8,
+        "reviews": 120,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1000,
+        "availability": "Available Today",
+        "phone": "+91-9899012345",
+        "qualifications": "BDS, MDS"
+    },
+    {
+        "id": 105,
+        "name": "Dr. Kavita Lamba",
+        "specialty": "Dentist",
+        "location": "Shivpuri",
+        "experience": 9,
+        "rating": 4.8,
+        "reviews": 120,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1000,
+        "availability": "Available Today",
+        "phone": "+91-9899012345",
+        "qualifications": "BDS, MDS"
+    },
+    {
+        "id": 105,
+        "name": "Dr. Kavita Lamba",
+        "specialty": "Dentist",
+        "location": "Shivpuri",
+        "experience": 9,
+        "rating": 4.8,
+        "reviews": 120,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1000,
+        "availability": "Available Today",
+        "phone": "+91-9899012345",
+        "qualifications": "BDS, MDS"
+    },
+    {
+        "id": 105,
+        "name": "Dr. Kavita Lamba",
+        "specialty": "Dentist",
+        "location": "Shivpuri",
+        "experience": 9,
+        "rating": 4.8,
+        "reviews": 120,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1000,
+        "availability": "Available Today",
+        "phone": "+91-9899012345",
+        "qualifications": "BDS, MDS"
+    },
+    {
+        "id": 105,
+        "name": "Dr. Kavita Lamba",
+        "specialty": "Dentist",
+        "location": "Shivpuri",
+        "experience": 9,
+        "rating": 4.8,
+        "reviews": 120,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1000,
+        "availability": "Available Today",
+        "phone": "+91-9899012345",
+        "qualifications": "BDS, MDS"
+    },
+    {
+        "id": 105,
+        "name": "Dr. Kavita Lamba",
+        "specialty": "Dentist",
+        "location": "Shivpuri",
+        "experience": 9,
+        "rating": 4.8,
+        "reviews": 120,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1000,
+        "availability": "Available Today",
+        "phone": "+91-9899012345",
+        "qualifications": "BDS, MDS"
+    },
+    {
+        "id": 105,
+        "name": "Dr. Kavita Lamba",
+        "specialty": "Dentist",
+        "location": "Shivpuri",
+        "experience": 9,
+        "rating": 4.8,
+        "reviews": 120,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1000,
+        "availability": "Available Today",
+        "phone": "+91-9899012345",
+        "qualifications": "BDS, MDS"
+    },
+    {
+        "id": 105,
+        "name": "Dr. Kavita Lamba",
+        "specialty": "Dentist",
+        "location": "Shivpuri",
+        "experience": 9,
+        "rating": 4.8,
+        "reviews": 120,
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "fees": 1000,
+        "availability": "Available Today",
+        "phone": "+91-9899012345",
+        "qualifications": "BDS, MDS"
+    }
+]   
